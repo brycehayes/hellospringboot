@@ -1,0 +1,4 @@
+com\brycehayes\scotland\model\User.class
+com\brycehayes\scotland\App.class
+com\brycehayes\scotland\controller\WelcomeController.class
+com\brycehayes\scotland\controller\UserController.class
